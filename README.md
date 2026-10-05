@@ -24,9 +24,9 @@ Specialized in **Seedance 2.0 / 2.5** • Kling • Commercial & Social Content
 - Side angle (optional)
 - Full body / outfit
 
+### Step 2: Identity Lock
 
-### Step 2: Identity Lock Likho
-
+```text
 CHARACTER LOCK:
 @character1
 
@@ -42,52 +42,39 @@ Do NOT inherit:
 - Original pose
 - Original lighting
 - Camera angle from reference
+Step 3: Strong Example
+textCHARACTER LOCK: Young South Asian woman, 24 years old, natural skin with light texture, long straight black hair, soft facial features, wearing oversized beige hoodie and simple gold hoop earrings. Keep exact face and body proportions across all shots.
 
-CHARACTER LOCK: Young South Asian woman, 24 years old, natural skin with light texture, long straight black hair, soft facial features, wearing oversized beige hoodie and simple gold hoop earrings. Keep exact face and body proportions across all shots.
-
-
-### Step 3: Strong Example
-
-CHARACTER LOCK: Young South Asian woman, 24 years old, natural skin with light texture, long straight black hair, soft facial features, wearing oversized beige hoodie and simple gold hoop earrings. Keep exact face and body proportions across all shots.
-
-
-
-### Visual Examples (Real High-Performing Cases)
-
+Visual Examples (Real High-Performing Cases)
 Identity Lock Example
 
 Handheld UGC Realism
+
 Product Commercial Style
+
 Fashion / Lookbook Style
 
 
-### Full Procedure Example (Product UGC Ad)
-
+Full Procedure Example (Product UGC Ad)
 1. Character Lock
-Young woman, natural skin, long black hair, beige hoodie
-
-
+textYoung woman, natural skin, long black hair, beige hoodie
 2. Product Lock
-Matte black wireless headphones, soft ear cups, silver hinges
-
+textMatte black wireless headphones, soft ear cups, silver hinges
 3. Timeline
-[0-4s] She picks up the headphones
+text[0-4s] She picks up the headphones
 [4-8s] Puts them on naturally
 [8-12s] Smiles while listening
 [12-15s] Hero product shot
-
-
 4. Realism Layer
-Shot on smartphone, natural handheld shake, real skin texture, soft window light, no beauty filter
-
-
-### Techniques I Use
-
-TechniqueWhat it SolvesCharacter Identity LockFace change nahi hotaProduct LockProduct bigadta nahiTimeline ScriptBetter motion controlCamera Defects MethodAI plastic look khatamNegative PromptingExtra fingers & artifacts kam  
+textShot on smartphone, natural handheld shake, real skin texture, soft window light, no beauty filter
 
 
 
-### AI Models
+Techniques I Use
+
+TechniqueWhat it SolvesCharacter Identity LockFace change nahi hotaProduct LockProduct bigadta nahiTimeline ScriptBetter motion controlCamera Defects MethodAI plastic look khatamNegative PromptingExtra fingers & artifacts kam
+
+AI Models
 
 Seedance 2.0 / 2.5 (Main)
 Kling AI
@@ -95,6 +82,6 @@ Google Veo
 Runway
 
 
-
 Contact
 Available for high-realism AI video prompt systems, brand commercials, and social content.
+text---
