@@ -50,6 +50,8 @@ Do NOT inherit:
 CHARACTER LOCK: Young South Asian woman, 24 years old, natural skin with light texture, long straight black hair, soft facial features, wearing oversized beige hoodie and simple gold hoop earrings. Keep exact face and body proportions across all shots.
 ```
 
+<br />
+<br />
 
 ### Visual Examples (Real High-Performing Cases)
 **Identity Lock Example**
